@@ -19,7 +19,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 -   [Report]- Documented the changes and created a proposal report to present the suggestion to the company.(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Report%20for%20DT.odt)
 -    [Tableau]- I deepened my analytics by working on a database and analysing the facts on population across the world.
 -   [Python]- I worked on the CSV file to learn the uploading and saving on ID Colab. Worked on the plots using Matplotlib and Seaborn to see the visualisations and learn the analytics using programming
-  PythonCode:(https://raw.githubusercontent.com/urmilasamarth-max/DA-urmsam2971/refs/heads/main/Python_coding.ipynb)(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Python_coding.ipynb)
+  PythonCode:(https://raw.githubusercontent.com/urmilasamarth-max/DA-urmsam2971/refs/heads/main/Python_coding.ipynb)
 
 
 
