@@ -10,10 +10,11 @@ I’m building my portfolio to show the projects I created during my DA course.
 - Tableau / Power BI dashboards: Established core competencies to produce dashboards and analytics visuals on Tableau / Power BI
 
 ## Projects I have completed: 
-  I worked on the scenario for a retail growing company to suggest the upgrade of the data system by analysing the current and futuristic scenario to achieve a profitable goal in competitive market conditions. 
+  I worked on the scenario for a retail company to suggest the upgrade of the data system by analysing the current and futuristic scenarios to achieve a profitable goal in competitive market conditions. 
   
 - [Excel] – Created and cleaned a dataset for the last five years using Claude and prepared cleaning and sorting to create ten different data tables with various fields.
--  [SQL]- Created Azure SQL Server and SSMS. Configured the created resources and added tables to SQL Server. Created connections within tables using primary and foreign keys. And checked the corrected EDR diagram on the     server.
+  RetailDatabase:(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/RetailDatabase_10k.csv)
+-  [SQL] - Created Azure SQL Server and SSMS. Configured the created resources and added tables to SQL Server. Created connections within tables using primary and foreign keys. And checked the corrected EDR diagram on the     server.
 - [Power BI]- Created dashboards for analytics using data to show the current figures, hierarchy  and the distribution of the data in various fields
 - -Report- Documented the changes and created a proposal report to present the suggestion to the company.
 -[Tableau]- I deepened my analytics by working on a database and analysing the facts on population across the world.
