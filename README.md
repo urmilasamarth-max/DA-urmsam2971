@@ -10,7 +10,8 @@ I’m building my portfolio to show the projects I created during my DA course.
 - Tableau / Power BI dashboards: Established core competencies to produce dashboards and analytics visuals on Tableau / Power BI
 
 ## Projects I have completed: 
-  I worked on the scenario for a retail growing company to suggest the upgrade of the data system by analysing the current and futuristic scenario to achieve a profitable goal in competotive market conditions. 
+  I worked on the scenario for a retail growing company to suggest the upgrade of the data system by analysing the current and futuristic scenario to achieve a profitable goal in competitive market conditions. 
+  
 - [Excel] – Created and cleaned a dataset for the last five years using Claude and prepared cleaning and sorting to create ten different data tables with various fields.
 -  [SQL]- Created Azure SQL Server and SSMS. Configured the created resources and added tables to SQL Server. Created connections within tables using primary and foreign keys. And checked the corrected EDR diagram on the     server.
 - [Power BI]- Created dashboards for analytics using data to show the current figures, hierarchy  and the distribution of the data in various fields
@@ -19,27 +20,21 @@ I’m building my portfolio to show the projects I created during my DA course.
 - [Python]- I worked on the CSV file to learn the uploading and saving on ID Colab. Worked on the plots using Matplotlib and Seaborn to see the visualisations and learn the analytics using programming
 
 
-Then,
-
-Click my path name: top left: e.g. DA777
-To see text in the README page.
-
-
-Note:
-If you are lost and not sure which page you are on, just click  > on the top left path name.
-Then choose the repository you're creating.
 
 
 
-Next,
-To stop and view  your page in GitHub browser: Here's How to Enable It Now:
-1.	Click "Settings" (in your repository menu)
-2.	Scroll down to "Pages"
-3.	Go to branches > Select the main branch as the source
-4.	Then click the Save tab - GitHub will give you a live URL: it takes about 2 to 3 mins for GitHub to create it.
-5.	After 1 min, refresh your page
-6.	At the top of the page, you can now see that your site is live and will have a URL for this page
-7.	Copy the URL address and place it in a new browser page > this is your page for this project. Just to see your empty GitHub page.
+
+
+
+##Next,
+T#o stop and view  your page in GitHub browser: Here's How to Enable It Now:
+#1.	Click "Settings" (in your repository menu)
+#2.	Scroll down to "Pages"
+#3.	Go to branches > Select the main branch as the source
+#4.	Then click the Save tab - GitHub will give you a live URL: it takes about 2 to 3 mins for GitHub to create it.
+#5.	After 1 min, refresh your page
+#6.	At the top of the page, you can now see that your site is live and will have a URL for this page
+#7.	Copy the URL address and place it in a new browser page > this is your page for this project. Just to see your empty GitHub page.
 
 
 
