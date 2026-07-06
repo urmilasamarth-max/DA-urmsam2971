@@ -15,11 +15,9 @@ I’m building my portfolio to show the projects I created during my DA course.
 -  [SQL]- Created Azure SQL Server and SSMS. Configured the created resources and added tables to SQL Server. Created connections within tables using primary and foreign keys. And checked the corrected EDR diagram on the     server.
 - [Power BI]- Created dashboards for analytics using data to show the current figures, hierarchy  and the distribution of the data in various fields
 - -Report- Documented the changes and created a proposal report to present the suggestion to the company.
--[Tableau]
-- [Python]
+-[Tableau]- I deepened my analytics by working on a database and analysing the facts on population across the world.
+- [Python]- I worked on the CSV file to learn the uploading and saving on ID Colab. Worked on the plots using Matplotlib and Seaborn to see the visualisations and learn the analytics using programming
 
-Click Commit changes x2 to save.
-Click the Code tab to see my text/ edits/changes.
 
 Then,
 
