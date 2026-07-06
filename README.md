@@ -54,18 +54,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 
 
 
-Tableau link → GitHub:
-1.	In Tableau Public/Server: Publish workbook → copy the view/share URL.
-2.	With an image of the dashboard in your live page as well.
-3.	On GitHub: Use the same repo with a README.
-4.	Edit README and paste the Tableau workbook/view link under a “Tableau dashboard link” heading.
-5.	Optionally add PNG screenshots of the Tableau views into the README.
 
-
-The tutor will provide you with a formatting doc.
-
-
-The tutor will provide you with a formatting doc.
 
 
 
