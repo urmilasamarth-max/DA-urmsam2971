@@ -15,7 +15,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 - [Excel] – Created and cleaned a dataset for the last five years using Claude and prepared cleaning and sorting to create ten different data tables with various fields.
   RetailDatabase:(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/RetailDatabase_10k.csv)
 -  [SQL] - Created Azure SQL Server and SSMS. Configured the created resources and added tables to SQL Server. Created connections within tables using primary and foreign keys. And checked the corrected EDR diagram on the     server.
--  SQL:()
+-  SQL:(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/sqllab.docx)
 -  AZURE=(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Azure.docx)
 -   [Power BI]- Created dashboards for analytics using data to show the current figures, hierarchy  and the distribution of the data in various fields
 -   [Report]- Documented the changes and created a proposal report to present the suggestion to the company.(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Report%20for%20DT.odt)
