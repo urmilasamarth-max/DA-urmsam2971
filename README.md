@@ -22,6 +22,8 @@ I’m building my portfolio to show the projects I created during my DA course.
 -   [Report]- Documented the changes and created a proposal report to present the suggestion to the company.(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Report%20for%20DT.odt)
 -    [Tableau]- I deepened my analytics by working on a database and analysing the facts on population across the world.
 -    Project Spotify: Analysis on Population and Life Expectancy :(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Dashboard%201.png) Published Link(https://public.tableau.com/app/profile/urmila.samarth/viz/LifeExpectancy_17803308287810/Dashboard1)
+-    <img width="1854" height="774" alt="image" src="https://github.com/user-attachments/assets/31be3291-3440-4c79-8e84-e60647412140" />
+
 -    (https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Geagrapical%20Analysis.png)
 -    Published Lik(https://public.tableau.com/app/profile/urmila.samarth/viz/Geo_17807571042150/GeagrapicalAnalysis)
 -    (https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Spotify%20Features.png)
