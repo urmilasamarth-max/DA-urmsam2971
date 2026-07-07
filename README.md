@@ -2,14 +2,7 @@
 New repository for portfolio
 # Hi, I’m Urmila,
 I’m building my portfolio to show the projects I created during my DA course.
-<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAHKfVELCNg/HoG_RzjKO0XX6bS6HxmkoQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHKfVELCNg&#x2F;HoG_RzjKO0XX6bS6HxmkoQ&#x2F;view?utm_content=DAHKfVELCNg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Profile_Urmila</a> by Urmila Samarth
+
 ## What I have learnt:
 - Excel and data  -I worked on enhanced concepts on data cleaning and transformation using Excel
 - Python / Google Colab -I performed some analytics on data using pandas, matplotlib, pynum, and seaborn to demonstrate a few charts and analyses
