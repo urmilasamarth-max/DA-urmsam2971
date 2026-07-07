@@ -21,8 +21,9 @@ I’m building my portfolio to show the projects I created during my DA course.
 -   [Power BI]- Created dashboards for analytics using data to show the current figures, hierarchy  and the distribution of the data in various fields(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Python_coding.ipynb)
 -   [Report]- Documented the changes and created a proposal report to present the suggestion to the company.(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Report%20for%20DT.odt)
 -    [Tableau]- I deepened my analytics by working on a database and analysing the facts on population across the world.
--    Project Spotify: Analysis on Population and Life Expectancy :(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Dashboard%201.png)
+-    Project Spotify: Analysis on Population and Life Expectancy :(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Dashboard%201.png) Published Link(https://public.tableau.com/app/profile/urmila.samarth/viz/LifeExpectancy_17803308287810/Dashboard1)
 -    (https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Geagrapical%20Analysis.png)
+-    Published Lik(https://public.tableau.com/app/profile/urmila.samarth/viz/Geo_17807571042150/GeagrapicalAnalysis)
 -    (https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Spotify%20Features.png)
 -   [Python]- I worked on the CSV file to learn the uploading and saving on ID Colab. Worked on the plots using Matplotlib and Seaborn to see the visualisations and learn the analytics using programming
   PythonCode:(https://raw.githubusercontent.com/urmilasamarth-max/DA-urmsam2971/refs/heads/main/Python_coding.ipynb)
