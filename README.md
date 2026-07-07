@@ -10,7 +10,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 - Tableau / Power BI dashboards: Established core competencies to produce dashboards and analytics visuals on Tableau / Power BI
 
 ## Projects I have completed: 
-  I worked on a scenario for a retail company, analysing current and future data to recommend upgrading the data system and achieve profitability in a competitive market. 
+ A] I worked on a scenario for a retail company, analysing current and future data to recommend upgrading the data system and achieve profitability in a competitive market. 
   
 - [Excel] – Created and cleaned a dataset for the last five years using Claude and prepared cleaning and sorting to create ten different data tables with various fields.
   RetailDatabase:(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/RetailDatabase_10k.csv)
@@ -29,7 +29,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 
 
   
--    [Tableau]- I deepened my analytics by working on a database and analysing the facts on population across the world.
+-  B]  [Tableau]- I deepened my analytics by working on a database and analysing the facts on population across the world.
 -    Project Spotify: Analysis on Population and Life Expectancy: Published Link(https://public.tableau.com/app/profile/urmila.samarth/viz/LifeExpectancy_17803308287810/Dashboard1)
 -    <img width="1854" height="774" alt="image" src="https://github.com/user-attachments/assets/31be3291-3440-4c79-8e84-e60647412140" /><img width="1903" height="922" alt="image" src="https://github.com/user-attachments/assets/658e81d6-22c8-474c-9e7e-e2b11b4296b2" />
 
@@ -49,8 +49,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 
 
 
-## Projects I have completed: 
-  I worked on the scenario for an Fifa Player Performance Market Value from the Kaggle database, copied it to Postgres on Supabase, and used the Supabase platform to connect Metabase to suggest the real time analyssis The Supabase dashboard connection report to Metabase:<img width="1860" height="911" alt="image" src="https://github.com/user-attachments/assets/28f151a1-f0a6-4d42-994f-91c33f3d3c6e" />
+C]  I worked on the scenario for an Fifa Player Performance Market Value from the Kaggle database, copied it to Postgres on Supabase, and used the Supabase platform to connect Metabase to suggest the real time analyssis The Supabase dashboard connection report to Metabase:<img width="1860" height="911" alt="image" src="https://github.com/user-attachments/assets/28f151a1-f0a6-4d42-994f-91c33f3d3c6e" />
   Connection to Metabase for analytics in real time:<img width="1899" height="874" alt="image" src="https://github.com/user-attachments/assets/af9bb15a-8132-4b43-b380-9893e0e430cd" />
   Standard Deviation:<img width="1899" height="846" alt="image" src="https://github.com/user-attachments/assets/71230f2f-4199-4921-886c-8eb31784e688" />
   <img width="1903" height="922" alt="image" src="https://github.com/user-attachments/assets/16456385-7f53-4f65-992b-b9f44b357fdb" />
