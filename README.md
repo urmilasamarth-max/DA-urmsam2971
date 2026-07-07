@@ -56,12 +56,7 @@ I’m building my portfolio to show the projects I created during my DA course.
   <img width="1903" height="922" alt="image" src="https://github.com/user-attachments/assets/16456385-7f53-4f65-992b-b9f44b357fdb" />
 
   
-Analysis of Jobs in the Data Jobs Market in India on the Flourish Data from Kaggle:
 
-
-
-
-<(https://app.flourish.studio/visualisation/29499305/edit)>
 
 
 
