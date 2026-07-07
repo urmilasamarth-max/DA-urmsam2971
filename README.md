@@ -57,6 +57,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 
   
 Analysis of Jobs in the Data Jobs Market in India:
+
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/29615087"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29615087/thumbnail" width="100%" alt="bar-chart-race visualization" /></noscript></div>
   
 
