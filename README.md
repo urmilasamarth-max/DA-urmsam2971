@@ -32,7 +32,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 
 
 -   [Python]- I worked on the CSV file to learn the uploading and saving on ID Colab. Worked on the plots using Matplotlib and Seaborn to see the visualisations and learn the analytics using programming
-  PythonCode:(https://raw.githubusercontent.com/urmilasamarth-max/DA-urmsam2971/refs/heads/main/Python_coding.ipynb)<img width="881" height="574" alt="image" src="https://github.com/user-attachments/assets/1e6205eb-24bd-4bde-92d7-445e28960470" /><img width="987" height="729" alt="image" src="https://github.com/user-attachments/assets/9fe426b3-7390-4c4b-a743-16494b846e73" />
+  PythonCode:(https://raw.githubusercontent.com/urmilasamarth-max/DA-urmsam2971/refs/heads/main/Python_coding.ipynb)<img width="987" height="729" alt="image" src="https://github.com/user-attachments/assets/9fe426b3-7390-4c4b-a743-16494b846e73" />
 
 
 
