@@ -5,6 +5,8 @@ I’m building my portfolio to show the projects I created during my DA course.
 
 ## What I have learnt:
 - Excel and data  -I worked on enhanced concepts on data cleaning and transformation using Excel
+  Along with the assignment work, I worked on Kaggle Data for Tech Job Market 2026 | 23K+ Records and filterd and cleaned the data and created a pivot chart. I produced the table and created an animated run chart f ot the salaries over the year and published them
+  
 - Python / Google Colab -I performed some analytics on data using pandas, matplotlib, pynum, and seaborn to demonstrate a few charts and analyses
 - SQL / MySQL Workbench- Dive deep into skills to exhibit the analysis of data using SQL, SSMS and AZURE data engineering concepts
 - Tableau / Power BI dashboards: Established core competencies to produce dashboards and analytics visuals on Tableau / Power BI
