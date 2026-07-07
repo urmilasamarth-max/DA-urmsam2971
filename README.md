@@ -50,6 +50,8 @@ I’m building my portfolio to show the projects I created during my DA course.
 
 ## Projects I have completed: 
   I worked on the scenario for an Fifa Player Performance Market Value from the Kaggle database, copied it to Postgres on Supabase, and used the Supabase platform to connect Metabase to suggest the real time analyssis The Supabase dashboard connection report to Metabase:<img width="1860" height="911" alt="image" src="https://github.com/user-attachments/assets/28f151a1-f0a6-4d42-994f-91c33f3d3c6e" />
+  Connection to Metabase for analytics in real time:<img width="1899" height="874" alt="image" src="https://github.com/user-attachments/assets/af9bb15a-8132-4b43-b380-9893e0e430cd" />
+
 
 
 
