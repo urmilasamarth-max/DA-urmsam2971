@@ -21,7 +21,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 -   Migration Complete:<img width="966" height="613" alt="image" src="https://github.com/user-attachments/assets/9bbacea6-af72-445b-8067-35f8115ad2ce" />
 
 -  
--   [Power BI]- Created dashboards for analytics using data to show the current figures, hierarchy  and the distribution of the data in various fields(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/new%20report.pbix)<img width="1746" height="860" alt="image" src="https://github.com/user-attachments/assets/f41aea3b-a123-48b4-8ce0-e1fe675c6c76" />
+-   [Power BI]- Created dashboards for analytics using data to show the current figures, hierarchy  and the distribution of the data in various fields(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/new%20report.pbix)<img width="1746" height="860" alt="image" src="https://github.com/user-attachments/assets/3dfb39e8-b528-483b-b605-7f9986424b3e" />
 
 -   [Report]- Documented the changes and created a proposal report to present the suggestion to the company.(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Report%20for%20DT.odt)
 -    [Tableau]- I deepened my analytics by working on a database and analysing the facts on population across the world.
