@@ -10,7 +10,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 - Tableau / Power BI dashboards: Established core competencies to produce dashboards and analytics visuals on Tableau / Power BI
 
 ## Projects I have completed: 
-  I worked on the scenario for a retail company to suggest the upgrade of the data system by analysing the current and futuristic scenarios to achieve a profitable goal in competitive market conditions. 
+  I worked on a scenario for a retail company, analysing current and future data to recommend upgrading the data system and achieve profitability in a competitive market. 
   
 - [Excel] – Created and cleaned a dataset for the last five years using Claude and prepared cleaning and sorting to create ten different data tables with various fields.
   RetailDatabase:(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/RetailDatabase_10k.csv)
@@ -55,6 +55,9 @@ I’m building my portfolio to show the projects I created during my DA course.
   Standard Deviation:<img width="1899" height="846" alt="image" src="https://github.com/user-attachments/assets/71230f2f-4199-4921-886c-8eb31784e688" />
   <img width="1903" height="922" alt="image" src="https://github.com/user-attachments/assets/16456385-7f53-4f65-992b-b9f44b357fdb" />
 
+  
+Analysis of Jobs in the Data Jobs Market in India:
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/29615087"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29615087/thumbnail" width="100%" alt="bar-chart-race visualization" /></noscript></div>
   
 
 
