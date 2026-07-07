@@ -58,10 +58,10 @@ I’m building my portfolio to show the projects I created during my DA course.
   
 Analysis of Jobs in the Data Jobs Market in India on the Flourish Data from Kaggle:
 
-<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/29499305"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29499305/thumbnail" width="100%" alt="bar-chart-race visualization" /></noscript></div>
 
 
 
+<(https://app.flourish.studio/visualisation/29499305/edit)>
 
 
 
