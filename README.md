@@ -25,7 +25,8 @@ I’m building my portfolio to show the projects I created during my DA course.
 -    <img width="1854" height="774" alt="image" src="https://github.com/user-attachments/assets/31be3291-3440-4c79-8e84-e60647412140" />
 
 
--    Published Lik(https://public.tableau.com/app/profile/urmila.samarth/viz/Geo_17807571042150/GeagrapicalAnalysis)<img width="1833" height="810" alt="image" src="https://github.com/user-attachments/assets/b59c8be8-0ddf-460b-9ada-344f77d2193d" />
+-    Published Lik(https://public.tableau.com/app/profile/urmila.samarth/viz/Geo_17807571042150/GeagrapicalAnalysis)<img width="1833" height="810" alt="image" src="https://github.com/user-attachments/assets/894323da-b8d4-4ee3-b1c7-68aa2a82ea0b" />
+
 
 -   [Python]- I worked on the CSV file to learn the uploading and saving on ID Colab. Worked on the plots using Matplotlib and Seaborn to see the visualisations and learn the analytics using programming
   PythonCode:(https://raw.githubusercontent.com/urmilasamarth-max/DA-urmsam2971/refs/heads/main/Python_coding.ipynb)
