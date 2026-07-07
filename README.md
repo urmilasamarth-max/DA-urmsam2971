@@ -29,7 +29,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 
 
   
--  B]  [Tableau]- I deepened my analytics by working on a database and analysing the facts on population across the world.
+  B]  [Tableau]- I deepened my analytics by working on a database and analysing the facts on population across the world.
 -    Project Spotify: Analysis on Population and Life Expectancy: Published Link(https://public.tableau.com/app/profile/urmila.samarth/viz/LifeExpectancy_17803308287810/Dashboard1)
 -    <img width="1854" height="774" alt="image" src="https://github.com/user-attachments/assets/31be3291-3440-4c79-8e84-e60647412140" /><img width="1903" height="922" alt="image" src="https://github.com/user-attachments/assets/658e81d6-22c8-474c-9e7e-e2b11b4296b2" />
 
