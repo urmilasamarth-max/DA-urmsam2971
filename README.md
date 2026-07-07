@@ -48,7 +48,8 @@ I’m building my portfolio to show the projects I created during my DA course.
 
 
 
-
+## Projects I have completed: 
+  I worked on the scenario for an Indian Tech Job Market 2026 | 23K+ Records from the Kaggle database, copied it to Postgres on Supabase, and used the Supabase platform to connect Metabase to suggest the real time analyssis The Supabase dashboard connection report to Metabase:
 
 
 
