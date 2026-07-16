@@ -1,5 +1,5 @@
 # DA-urmsam2971
-New repository for portfolio
+
 # Hi, I’m Urmila,
 I’m building my portfolio to show the projects I created during my DA course.
 
