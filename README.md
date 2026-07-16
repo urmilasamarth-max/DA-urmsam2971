@@ -21,6 +21,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 - [Excel] – Created and cleaned a dataset for the last five years using Claude and prepared cleaning and sorting to create ten different data tables with various fields.
   RetailDatabase:(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/RetailDatabase_10k.csv)
 
+<img width="917" height="691" alt="image" src="https://github.com/user-attachments/assets/82199e48-dd70-4307-9771-a26bb91ad383" />
 
   
 -  [SQL] - Created Azure SQL Server and SSMS. Configured the created resources and added tables to SQL Server. Created connections within tables using primary and foreign keys. And checked the corrected EDR diagram on the     server.
