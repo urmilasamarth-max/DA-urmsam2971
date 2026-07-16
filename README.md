@@ -4,7 +4,8 @@
 
 
 <img width="1023" height="1023" alt="image" src="https://github.com/user-attachments/assets/eea84acc-9885-473b-b686-b5ffa0cc8987" />
-
+Public profile & URL
+www.linkedin.com/in/urmila-samarth-750427162
 I’m building my portfolio to show the projects I created during my DA course.
 
 ## What I have learnt:
