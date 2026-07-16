@@ -48,7 +48,8 @@ I worked on a scenario for a retail company, analysing current and future data t
   
 Project  B]  
 [Tableau]- I deepened my analytics by working on a database and analysing the facts on population across the world.
--    Project Spotify: Analysis on Population and Life Expectancy: Published Link(https://public.tableau.com/app/profile/urmila.samarth/viz/LifeExpectancy_17803308287810/Dashboard1)
+-    Project Spotify: Analysis on Population and Life Expectancy:
+-    Published Link(https://public.tableau.com/app/profile/urmila.samarth/viz/LifeExpectancy_17803308287810/Dashboard1)
 -    <img width="1854" height="774" alt="image" src="https://github.com/user-attachments/assets/31be3291-3440-4c79-8e84-e60647412140" /><img width="1903" height="922" alt="image" src="https://github.com/user-attachments/assets/658e81d6-22c8-474c-9e7e-e2b11b4296b2" />
 
 
@@ -61,7 +62,8 @@ Project  B]
 
 
 -   [Python]- I worked on the CSV file to learn the uploading and saving on ID Colab. Worked on the plots using Matplotlib and Seaborn to see the visualisations and learn the analytics using programming
-  PythonCode:(https://raw.githubusercontent.com/urmilasamarth-max/DA-urmsam2971/refs/heads/main/Python_coding.ipynb)<img width="987" height="729" alt="image" src="https://github.com/user-attachments/assets/9fe426b3-7390-4c4b-a743-16494b846e73" />
+
+-PythonCode:(https://raw.githubusercontent.com/urmilasamarth-max/DA-urmsam2971/refs/heads/main/Python_coding.ipynb)<img width="987" height="729" alt="image" src="https://github.com/user-attachments/assets/9fe426b3-7390-4c4b-a743-16494b846e73" />
 
 
 
