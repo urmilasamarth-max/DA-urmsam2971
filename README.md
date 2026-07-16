@@ -19,7 +19,8 @@ I’m building my portfolio to show the projects I created during my DA course.
   
   
 -  [SQL] - Created Azure SQL Server and SSMS. Configured the created resources and added tables to SQL Server. Created connections within tables using primary and foreign keys. And checked the corrected EDR diagram on the     server.
-  
+  <img width="1786" height="791" alt="image" src="https://github.com/user-attachments/assets/53b8e44e-2716-447f-bb9a-fe3055d8a634" />
+
 -  SQL Coding :(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/sqllab.docx)
 -  AZURE=(https://github.com/urmilasamarth-max/DA-urmsam2971/blob/main/Azure.docx)
   
