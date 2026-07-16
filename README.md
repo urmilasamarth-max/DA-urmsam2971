@@ -3,7 +3,10 @@
 # Hi, I’m Urmila,
 
 
-<img width="1023" height="1023" alt="image" src="https://github.com/user-attachments/assets/eea84acc-9885-473b-b686-b5ffa0cc8987" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6ffdaa3e-35d3-4d23-a5c0-129dcb4815f5" />
+
+
+
 Public profile & URL
 www.linkedin.com/in/urmila-samarth-750427162
 
